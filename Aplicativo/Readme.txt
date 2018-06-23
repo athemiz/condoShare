@@ -1,0 +1,1 @@
+Para abrir o projeto basta extrair o rar e mandar abrir a pasta no Android Studio.
